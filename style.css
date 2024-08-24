@@ -29,3 +29,6 @@ header{
     font-size: 24px;
     transition: .2s;
 }
+.nav a:hover{
+    color: goldenrod;
+}
