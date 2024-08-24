@@ -4,3 +4,28 @@
     box-sizing: border-box;
     text-decoration: none;
 }
+header{
+    background-color: #FFFFFF;
+}
+.header{
+    max-width: 1440px;
+    width: 100%;
+    margin: 0 auto;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 107px 20px 62px;
+
+
+
+}
+.nav{
+    display: flex;
+    gap: 30px;
+}
+.nav a{
+    color: #957554;
+    font-size: 24px;
+    transition: .2s;
+}
